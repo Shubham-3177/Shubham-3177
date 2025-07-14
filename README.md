@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Shubham-3177/Shubham-3177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Shubham S Kadatare
 
-Here are some ideas to get you started:
+💻 Java Developer | ☁️ DevOps Enthusiast  
+🔧 Docker • Linux • GitHub Actions • CI/CD • AWS  
+📍 Pune | 🔗 [LinkedIn](www.linkedin.com/in/shubhamkadatare)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔨 Tech I Use:
+- Java, Spring Boot
+- Docker, Linux, Bash
+- Git & GitHub
+- Jenkins, GitHub Actions
+- AWS EC2, S3
+
+---
+
+### 📊 GitHub Stats:
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham-3177&show_icons=true&theme=radical)
