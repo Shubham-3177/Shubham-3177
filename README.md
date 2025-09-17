@@ -4,6 +4,7 @@
 💻 Java Developer | ☁️ DevOps Enthusiast  
 🔧 Docker • Linux • GitHub Actions • CI/CD • AWS  
 📍 Pune | 🔗 [LinkedIn](www.linkedin.com/in/shubhamkadatare)
+           🔗 [Naukri](https://www.naukri.com/mnjuser/profile)
 
 ---
 
