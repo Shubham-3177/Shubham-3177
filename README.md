@@ -1,6 +1,6 @@
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Shubham+S+Kadatare;DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Automation;Building+Scalable+Cloud+Infrastructure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Shubham+S+Kadatare;DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Automation;Building+Scalable+Cloud+Infrastructure" />
 </p>
 
 <h4 align="center"><b>🚀 DEVOPS ENGINEER | CLOUD ARCHITECTURE ENTHUSIAST</b></h4>
